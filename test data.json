@@ -1,0 +1,58 @@
+[
+  {
+    "id": 241,
+    "txn_id": "TXN-HIST-001",
+    "customer_id": "CUST-20001",
+    "amount": 320.0,
+    "merchant": "FreshMart",
+    "country": "US",
+    "device_id": "DEV-OLD-001",
+    "payment_type": "CARD",
+    "timestamp": "2025-08-06 09:15:00",
+    "status": "PROCESSED",
+    "fraud_score": 12.5,
+    "fraud_decision": "APPROVE"
+  },
+  {
+    "id": 243,
+    "txn_id": "TXN-HIST-003",
+    "customer_id": "CUST-20001",
+    "amount": 520.0,
+    "merchant": "FoodCorner",
+    "country": "US",
+    "device_id": "DEV-OLD-001",
+    "payment_type": "CARD",
+    "timestamp": "2025-08-06 19:45:00",
+    "status": "PROCESSED",
+    "fraud_score": 0.0,
+    "fraud_decision": "APPROVE"
+  },
+  {
+    "id": 244,
+    "txn_id": "TXN-HIST-004",
+    "customer_id": "CUST-20001",
+    "amount": 275.0,
+    "merchant": "CityPower",
+    "country": "US",
+    "device_id": "DEV-OLD-001",
+    "payment_type": "CARD",
+    "timestamp": "2025-08-07 08:30:00",
+    "status": "PROCESSED",
+    "fraud_score": 0.0,
+    "fraud_decision": "APPROVE"
+  },
+  {
+    "id": 245,
+    "txn_id": "TXN-OTP-016",
+    "customer_id": "CUST-20001",
+    "amount": 400.0,
+    "merchant": "TechWorld",
+    "country": "US",
+    "device_id": "DEV-NEW-OTP",
+    "payment_type": "CARD",
+    "timestamp": "2025-08-07 12:30:00",
+    "status": "PROCESSED",
+    "fraud_score": 13.75,
+    "fraud_decision": "APPROVE"
+  }
+]
